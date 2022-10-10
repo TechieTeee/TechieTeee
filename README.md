@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 * Solidity
 * Rust
 * Cloud Technologies (GCP and Azure)
+* Data Engineering for Web 2 and Web 3
 * Rocks DB
 * Apache Big Data Tools
 * Ethereum
