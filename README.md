@@ -8,3 +8,19 @@
 TechieTeee/TechieTeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Special Skills
+* Solidity
+* Rust
+* Cloud Technologies (GCP and Azure)
+* Rocks DB
+* Apache Big Data Tools
+* Ethereum
+* Solana
+* Polygon
+* Algorand
+* Python
+* R
+* SQL
+* Machine Learning
+* Smart Contract Development
