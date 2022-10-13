@@ -12,6 +12,8 @@ You can click the Preview link to take a look at your changes.
 ## Special Skills
 * Cloud Technologies (GCP and Azure)
 * Data Engineering for Web 2 and Web 3
+* Machine Learning
+* Smart Contract Development
 * Solidity
 * Rust
 * Rocks DB
@@ -23,5 +25,4 @@ You can click the Preview link to take a look at your changes.
 * Python
 * R
 * SQL
-* Machine Learning
-* Smart Contract Development
+
