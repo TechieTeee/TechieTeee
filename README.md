@@ -10,22 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Top Tools and Languages
-* Cloud Technologies (GCP and Azure)
-* Data Engineering for Web 2 and Web 3
-* Machine Learning
-* Smart Contract Development
-* Solidity
-* Rust
-* Rocks DB
-* Apache Big Data Tools
-* Ethereum
-* Solana
-* Polygon
-* Algorand
-* Python
-* R
-* SQL
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
