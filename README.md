@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png""></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://vectorified.com/images/sql-icon-23.png"></code>
 <code><img height="20" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png"></code>
 <code><img height="20" src="https://www.pnglib.com/wp-content/uploads/2020/08/ethereum-purple-blue-icon_5f457c867236d-680x680.png"></code>
