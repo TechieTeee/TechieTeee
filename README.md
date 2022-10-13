@@ -30,4 +30,5 @@ You can click the Preview link to take a look at your changes.
 <br>
 Let's Build Some Cool Stuff that Changes the World! Let's go!!
 <br>
+
 <img src="https://media.giphy.com/media/3o7WIJRve6rqNQM7hC/giphy.gif" width="300">
