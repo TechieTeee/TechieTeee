@@ -9,7 +9,7 @@ TechieTeee/TechieTeee is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-## Special Skills
+## Top Tools and Languages
 * Cloud Technologies (GCP and Azure)
 * Data Engineering for Web 2 and Web 3
 * Machine Learning
@@ -26,4 +26,21 @@ You can click the Preview link to take a look at your changes.
 * R
 * SQL
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png""></code>
+<code><img height="20" src="https://vectorified.com/images/sql-icon-23.png"></code>
+<code><img height="20" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png"></code>
+<code><img height="20" src="https://www.pnglib.com/wp-content/uploads/2020/08/ethereum-purple-blue-icon_5f457c867236d-680x680.png"></code>
+<code><img height="20" src="https://www.pngall.com/wp-content/uploads/2017/05/Copyright-Symbol-R-Free-Download-PNG.png"></code>
+<code><img height="20" src="https://cryptologos.cc/logos/solana-sol-logo.png"></code>
+<code><img height="20" src="https://66m4i2zg7xf1y14ot28gqej8-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/azure-icon-e1589995182217.png"></code>
+<code><img height="20" src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<div align="center">
+
+</div>
+
+Let's Build Some Cool Stuff that Changes the World! Let's go!!
 <img src="https://media.giphy.com/media/3o7WIJRve6rqNQM7hC/giphy.gif" width="300">
