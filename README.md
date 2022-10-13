@@ -1,5 +1,5 @@
--<h2> Hey, Good People!</h2>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=techieteee.visitor-badge) 
+<h2> Hey, Good People!</h2>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=techieteee) 
 
 - 🤓 I’m TechieTeee on the interwebs
 - 👀 I’m a data engineer and blockchain developer.
