@@ -26,3 +26,4 @@ You can click the Preview link to take a look at your changes.
 * R
 * SQL
 
+<img src="https://media.giphy.com/media/3o7WIJRve6rqNQM7hC/giphy.gif" width="300">
