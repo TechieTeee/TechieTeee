@@ -2,13 +2,13 @@
 
 - 🤓 I’m TechieTeee on the interwebs
 - 👀 I’m a data engineer and blockchain developer.
-- 🌱 I’m currently building novel and decentralized data pipelines by combining the worlds of web 3 and data engineering.
-- 💞️ I’m looking to collaborate on projects that help to democratize web 3 and data products for the masses.
+- 🌱 I’m currently building novel and decentralized data pipelines by combining the worlds of web 3 and data engineering
+- 💞️ I’m looking to collaborate on projects that help to democratize web 3 and data products for the masses
 - 📫 You can be reach me on Twitter: @TechieTeee
 
 <!---
-TechieTeee/TechieTeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+TechieTeee/TechieTeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
+You can click the Preview link to take a look at your changes
 --->
 
 ## Top Tools and Languages
