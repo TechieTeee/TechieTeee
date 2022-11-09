@@ -3,7 +3,7 @@
 - 🤓 I’m TechieTeee on the interwebs
 - 👀 I’m a data engineer + blockchain developer
 - 🌱 I’m currently building innovative and decentralized data pipelines by combining the worlds of web 3 and data engineering
-- 🪝 Hooked on Hackathons
+- Hooked on Hackathons
 - 💞️ I’m looking to collaborate on projects that help to democratize web 3 and data products for the masses
 - 📫 You can be reach me on Twitter: @TechieTeee
 
