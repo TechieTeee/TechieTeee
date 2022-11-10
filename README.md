@@ -1,6 +1,6 @@
 <h2> Hey, Good People!</h2>
 
-- 🤓 I’m TechieTeee on the interwebs
+** 🤓 I’m TechieTeee on the interwebs
 - 👀 I’m a data engineer + blockchain developer
 - 🌱 I’m currently building innovative and decentralized data pipelines by combining the worlds of web 3 and data engineering
 - 👩🏾‍💻 Hooked on Hackathons: 
