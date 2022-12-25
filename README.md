@@ -6,7 +6,7 @@
 - 👩🏾‍💻 Hooked on Hackathons:
   - 🏆 **Multiple Hackathon Winner [Most Recent]:** Eth NYC, Consensus Encode ATX, Activate Miami, Eth Libson, Woman Hack Lisbon, Chainlink Encode Virtual Hackathon
   + Numerous Web 2 Hackathons and Various Tech Contests
-  + Buildspace Nights and Weekends Season 1 Alum
+  + Developer DAO member, dOrg member, Buildspace Nights and Weekends Season 1 Alum
   + Covalent HQ Data Alchemist Cohort 1 Alum
 - 💞️ I’m looking to collaborate on projects that help to democratize web 3 and data products for the masses
 - 📫 You can be reach me on Twitter: @TechieTeee
