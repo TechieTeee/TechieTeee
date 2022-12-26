@@ -39,14 +39,14 @@ You can click the Preview link to take a look at your changes
 
 </div>
 
+ ## Places to Find Me on the Interwebs
+ + [POAP NFT](https://app.poap.xyz/scan/techieteee.eth)
+ + [OpenSea](https://opensea.io/account?tab=collected)
+ + [Twitter](https://twitter.com/TechieTeee)
 
 <br>
 Let's Build Some Cool Stuff and Change the World! Let's go!! :)
 <br>
 
- ## Places to Find Me on the Interwebs
- + [POAP NFT](https://app.poap.xyz/scan/techieteee.eth)
- + [OpenSea](https://opensea.io/account?tab=collected)
- + [Twitter](https://twitter.com/TechieTeee)
 
 <img src="https://media.giphy.com/media/3o7WIJRve6rqNQM7hC/giphy.gif" width="300">
