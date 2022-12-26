@@ -12,11 +12,6 @@
  - 💞️ I’m looking to collaborate on projects that help to democratize web 3 and data products for the masses
 - 📫 You can be reach me on Twitter: @TechieTeee
 
- ## Places to Find Me on the Interwebs
- + [POAP NFT](https://app.poap.xyz/scan/techieteee.eth)
- + [OpenSea](https://opensea.io/account?tab=collected)
- + [Twitter](https://twitter.com/TechieTeee)
-
 <!---
 TechieTeee/TechieTeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
 You can click the Preview link to take a look at your changes
@@ -48,5 +43,10 @@ You can click the Preview link to take a look at your changes
 <br>
 Let's Build Some Cool Stuff and Change the World! Let's go!! :)
 <br>
+
+ ## Places to Find Me on the Interwebs
+ + [POAP NFT](https://app.poap.xyz/scan/techieteee.eth)
+ + [OpenSea](https://opensea.io/account?tab=collected)
+ + [Twitter](https://twitter.com/TechieTeee)
 
 <img src="https://media.giphy.com/media/3o7WIJRve6rqNQM7hC/giphy.gif" width="300">
