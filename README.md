@@ -9,8 +9,8 @@
   + Developer DAO member, dOrg member,
   + Build Pretty Solana Builders alum, Buildspace Women Eth Builder, Buildspace Nights and Weekends Season 1 Alum
   + Covalent HQ Data Alchemist Cohort 1 Alum
-  + [POAP NFT] (https://app.poap.xyz/scan/techieteee.eth)
- + [OpenSea] (https://opensea.io/account?tab=collected)
+  + [POAP NFT](https://app.poap.xyz/scan/techieteee.eth)
+ + [OpenSea](https://opensea.io/account?tab=collected)
 - 💞️ I’m looking to collaborate on projects that help to democratize web 3 and data products for the masses
 - 📫 You can be reach me on Twitter: @TechieTeee
 
