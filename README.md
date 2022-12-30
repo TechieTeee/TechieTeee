@@ -29,6 +29,7 @@ You can click the Preview link to take a look at your changes
 <code><img height="60" src="https://cryptologos.cc/logos/solana-sol-logo.png"></code>
 <code><img height="60" src="https://66m4i2zg7xf1y14ot28gqej8-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/azure-icon-e1589995182217.png"></code>
 <code><img height="60" src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png"></code>
+<code><img height="60" src="https://duckduckgo.com/?q=AWS+logo+png&atb=v314-1&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fpngimage.net%2Fwp-content%2Fuploads%2F2020%2F02%2Faws-logo-png-4.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="80"/>&emsp;
