@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes
 <code><img height="60" src="https://www.pnglib.com/wp-content/uploads/2020/08/ethereum-purple-blue-icon_5f457c867236d-680x680.png"></code>
 <code><img height="60" src="https://www.pngall.com/wp-content/uploads/2017/05/Copyright-Symbol-R-Free-Download-PNG.png"></code>
 <code><img height="60" src="https://cryptologos.cc/logos/solana-sol-logo.png"></code>
-<code><img height="60" src="https://66m4i2zg7xf1y14ot28gqej8-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/azure-icon-e1589995182217.png"></code>
+<code><img height="60" src="https://blog.bardalen.no/wp-content/uploads/2021/06/Azure-Logo-700x394-1.png"></code>
 <code><img height="60" src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png"></code>
 <code><img height="60" src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
