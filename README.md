@@ -5,7 +5,7 @@
 - 🌱 I’m currently building innovative and decentralized data pipelines by combining the worlds of web 3 and data engineering
 - 👩🏾‍💻 Hooked on Hackathons:
   - 🏆 **Multiple Hackathon Winner [Most Recent]:** Eth NYC, Consensus Encode ATX, Activate Miami, Eth Libson, Woman Hack Lisbon, Chainlink Encode Virtual Hackathon
-  + Numerous Web 2 Hackathons and Various Tech Contests
+  + Winner in Numerous Web 2 Hackathons and Various Tech Contests
   + Developer DAO member
   + Build Pretty Solana Camp Alum, Buildspace Women Eth Builder Alum, Buildspace Nights and Weekends Season 1 Alum
   + Covalent HQ Data Alchemist Cohort 1 Alum
