@@ -9,6 +9,7 @@
   + Developer DAO member
   + Build Pretty Solana Camp Alum, Buildspace Women Eth Builder Alum, Buildspace Nights and Weekends Season 1 Alum
   + Covalent HQ Data Alchemist Cohort 1 Alum
+  +  Encode Solidity Bootcamp Graduate
   - ✨ I’m looking to collaborate on projects that help to democratize web 3 and data products for the masses
  - 💼 Open to New Work Opportunities
 - 📫 You can be reach me on Twitter: @TechieTeee
