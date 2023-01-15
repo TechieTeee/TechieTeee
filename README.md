@@ -38,6 +38,7 @@ You can click the Preview link to take a look at your changes
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node.js" alt="Node.js Logo" width="100"/>&emsp;
 <img src="http://www.radacad.com/wp-content/uploads/2016/02/spark-logo-trademark.png" title="Spark" alt="Spark Logo" width="100"/>&emsp;
 <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_689ac3b637ca780ceb5591a5a9bde905/hadoop-hdfs.png" title="Hadoop" alt="Hadoop Logo" width="100"/>&emsp;
+<img src="https://www.eitea.at/wp-content/uploads/2019/06/kissclipart-kubernetes-logo-png-clipart-logo-kubernetes-b8b7e34b4bf1f88e.png" title="Kubernetes" alt="Kubernetes Logo" width="100"/>&emsp;
 
 <div align="center">
 
