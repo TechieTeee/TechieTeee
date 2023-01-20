@@ -46,6 +46,7 @@ You can click the Preview link to take a look at your changes
 
 </div>
 
+
  ## Places to Find Me on the Interwebs
  + [POAP NFT](https://app.poap.xyz/scan/techieteee.eth)
  + [OpenSea](https://opensea.io/account?tab=collected)
