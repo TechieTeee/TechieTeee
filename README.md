@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes
 <img src="https://logos-download.com/wp-content/uploads/2018/09/Kubernetes_Logo.png" title="Kubernetes" alt="Kubernetes Logo" width="100"/>&emsp;
 <img src="https://beam.apache.org/images/logos/full-color/name-right/beam-logo-full-color-name-right-500.png" title="Apache Beam" alt="Apache Beam Logo" width="100"/>&emsp;
 <img src="https://seeklogo.com/images/A/apache-nifi-logo-FD89D4A2D4-seeklogo.com.png" title="Apache Nifi" alt="Apache Nifi Logo" width="100"/>&emsp;
-<img src="https://duckduckgo.com/?q=Apache+Flink+png&atb=v314-1&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fupload-images.jianshu.io%2Fupload_images%2F8451293-56e1bc9eb0b8182b.png" title="Apache Flink" alt="Apache Flink Logo" width="100"/>&emsp;
+<img src="https://www.pinclipart.com/picdir/big/523-5236504_apache-flink-clipart.png" title="Apache Flink" alt="Apache Flink Logo" width="100"/>&emsp;
 
 <div align="center">
 
