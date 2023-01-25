@@ -12,13 +12,13 @@
   +  Encode Solidity Bootcamp Graduate
   
  ✨ Specialties ✨
-  💠 Blockchain Analytics
-  💠 Machine Learning
-  💠 Smart Contract Development
-  💠 ETL Optimization
-  💠 Database Management
-  💠 Data Visualization
-  💠 Data Dashboards
+  -💠 Blockchain Analytics
+  -💠 Machine Learning
+  -💠 Smart Contract Development
+  -💠 ETL Optimization
+  -💠 Database Management
+  -💠 Data Visualization
+  -💠 Data Dashboards
   
  - ✨ I’m looking to collaborate on projects that help to democratize web 3 and data products for the masses
  - 💼 Open to New Work Opportunities
