@@ -61,7 +61,6 @@ You can click the Preview link to take a look at your changes
  ## Places to Find Me on the Interwebs
  + [POAP NFT](https://app.poap.xyz/scan/techieteee.eth)
  + [OpenSea](https://opensea.io/account?tab=collected)
- + [Twitter](https://twitter.com/TechieTeee)
  + [Mint Kudos](https://mintkudos.xyz/profile/0x93083415e91da89c8bc92be621993bcc85e8c200?tab=Received)
 
 <br>
