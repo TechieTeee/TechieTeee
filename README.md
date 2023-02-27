@@ -14,6 +14,7 @@
  ✨ Specialties ✨
   - Blockchain Analytics
   - Machine Learning
+  - MLOps
   - Smart Contract Development
   - ETL Optimization
   - Database Management
