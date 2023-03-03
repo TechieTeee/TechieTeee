@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes
 <code><img height="60" src="https://ethereum.org/static/c48a5f760c34dfadcf05a208dab137cc/d1ef9/eth-diamond-rainbow.png" title="Ethereum"></code>
 <code><img height="60" src="https://www.pngall.com/wp-content/uploads/2017/05/Copyright-Symbol-R-Free-Download-PNG.png title="R"></code>
 <code><img height="60" src="https://cryptologos.cc/logos/solana-sol-logo.png" title="Solana"></code>
-<code><img height="60" src="https://swimburger.net/media/ppnn3pcl/azure.png title="Azure"></code>
+<code><img height="60" src="https://swimburger.net/media/ppnn3pcl/azure.png" title="Azure"></code>
 <code><img height="60" src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" title="GCP"></code>
 <code><img height="60" src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" title="AWS"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png title="MySQL"></code>
