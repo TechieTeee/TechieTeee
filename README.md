@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="60" src="https://vectorified.com/images/sql-icon-23.png"></code>
 <code><img height="60" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png"></code>
-<code><img height="60" src="https://www.pnglib.com/wp-content/uploads/2020/08/ethereum-purple-blue-icon_5f457c867236d-680x680.png"></code>
+<code><img height="60" src="https://ethereum.org/static/c48a5f760c34dfadcf05a208dab137cc/d1ef9/eth-diamond-rainbow.png"></code>
 <code><img height="60" src="https://www.pngall.com/wp-content/uploads/2017/05/Copyright-Symbol-R-Free-Download-PNG.png"></code>
 <code><img height="60" src="https://cryptologos.cc/logos/solana-sol-logo.png"></code>
 <code><img height="60" src="https://blog.bardalen.no/wp-content/uploads/2021/06/Azure-Logo-700x394-1.png"></code>
