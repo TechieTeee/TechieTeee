@@ -52,15 +52,7 @@ You can click the Preview link to take a look at your changes
 <code><img height="60" src="https://logos-download.com/wp-content/uploads/2018/09/Kubernetes_Logo.png" title="Kubernetes" title=""></code>
 <code><img height="60" src="https://beam.apache.org/images/logos/full-color/name-right/beam-logo-full-color-name-right-500.png" title="Apache Beam"></code>
 <code><img height="60" src="https://seeklogo.com/images/A/apache-nifi-logo-FD89D4A2D4-seeklogo.com.png" title="Apache Nifi"></code>
-
-
-
-
-<img src="https://www.pinclipart.com/picdir/big/523-5236504_apache-flink-clipart.png" title="Apache Flink" alt="Apache Flink Logo" width="100"/>&emsp;
-
-<div align="center">
-
-</div>
+<code><img height="60" src="https://www.pinclipart.com/picdir/big/523-5236504_apache-flink-clipart.png" title="Apache Flink"></code>
 
 
  ## Places to Find Me on the Interwebs
