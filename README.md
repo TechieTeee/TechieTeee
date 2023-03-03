@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes
 <code><img height="60" src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" title="AWS"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png title="MySQL"></code>
 <code><img height="60" src="https://logonoid.com/images/postgresql-logo.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png title="MongoDB"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" title="MongoDB"></code>
 <code><img height="60" src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker"></code>
 <code><img height="60" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node.js"></code>
 <code><img height="60" src="http://www.radacad.com/wp-content/uploads/2016/02/spark-logo-trademark.png" title="Spark"></code>
