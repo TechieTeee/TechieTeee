@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes
 <code><img height="60" src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" title="GCP"></code>
 <code><img height="60" src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" title="AWS"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="MySQL"></code>
-<code><img height="60" src="https://logonoid.com/images/postgresql-logo.png"></code>
+<code><img height="60" src="https://logonoid.com/images/postgresql-logo.png" title="PostgresSQL"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" title="MongoDB"></code>
 <code><img height="60" src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker"></code>
 <code><img height="60" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node.js"></code>
