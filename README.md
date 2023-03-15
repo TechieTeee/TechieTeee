@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes
  + [Mint Kudos](https://mintkudos.xyz/profile/0x93083415e91da89c8bc92be621993bcc85e8c200?tab=Received)
 
 <br>
-Let's Build Some Cool Stuff and Change the World! Let's go!! :)
+Let's Build Some Cool Stuff and Change the World! Let's go!!! 🤓
 <br>
 
 
