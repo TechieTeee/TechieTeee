@@ -7,7 +7,6 @@
   - 🏆 **Multiple Hackathon & Tech Contests Prize Winner [Most Recent]:** Eth NYC, Consensus Encode ATX, Activate Miami, Eth Libson, Woman Hack Lisbon and Chainlink Encode Virtual Hackathon
   + Winner in Numerous Web 2 Hackathons and Various Tech Contests
   + Developer DAO member
-  + Protocol Labs Launch Pad Graduate
   + Build Pretty Solana Camp Alum, Buildspace Women Eth Builder Alum, Buildspace Nights and Weekends Season 1 Alum
   + Covalent HQ Data Alchemist Cohort 1 Alum
   +  Encode Solidity Bootcamp Graduate
