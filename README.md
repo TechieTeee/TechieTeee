@@ -18,6 +18,7 @@
   - Smart Contract Development
   - ETL Optimization
   - Database Management
+  - Backend Development
   - Data Visualization
   - Data Dashboards
   
