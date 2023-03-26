@@ -63,17 +63,6 @@ You can click the Preview link to take a look at your changes
  + [OpenSea](https://opensea.io/account?tab=collected)
  + [Mint Kudos](https://mintkudos.xyz/profile/0x93083415e91da89c8bc92be621993bcc85e8c200?tab=Received)
 
-
-<a href="https://github.com/TechieTeee/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TechieTeee&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
-</a>
-<a href="https://github.com/TechieTeee/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechieTeee&langs_count=3&hide_title=true&hide_border=true" />
-</a>
-
-
-
-
 <br>
 Let's Build Some Cool Stuff and Change the World! Let's go!!! 🤓
 <br>
