@@ -63,6 +63,8 @@ You can click the Preview link to take a look at your changes
  + [OpenSea](https://opensea.io/account?tab=collected)
  + [Mint Kudos](https://mintkudos.xyz/profile/0x93083415e91da89c8bc92be621993bcc85e8c200?tab=Received)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TechieTeee&theme=monokai&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <br>
 Let's Build Some Cool Stuff and Change the World! Let's go!!! 🤓
 <br>
