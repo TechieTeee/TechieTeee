@@ -1,4 +1,4 @@
-# Hey, Good People! 🤓<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
+# Hey, Good People! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />🤓
 
 - 🤓 I’m TechieTeee on the interwebs
 - 👀 I’m a data engineer + blockchain developer
