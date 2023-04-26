@@ -8,6 +8,7 @@
   + Winner in Numerous Web 2 Hackathons and Various Tech Contests
   + Developer DAO member
   + Build Pretty Solana Camp Alum, Buildspace Women Eth Builder Alum, Buildspace Nights and Weekends Season 1 Alum
+  + Current N&W S3 Builder Gaudmire House
   + Covalent HQ Data Alchemist Cohort 1 Alum
   +  Encode Solidity Bootcamp Graduate
   
