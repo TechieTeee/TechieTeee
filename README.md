@@ -70,5 +70,7 @@ You can click the Preview link to take a look at your changes
 Let's Build Some Cool Stuff and Change the World! Let's go!!! 🤓
 <br>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TechieTeee&theme=monokai&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 <img src="https://media.giphy.com/media/3o7WIJRve6rqNQM7hC/giphy.gif" width="300">
