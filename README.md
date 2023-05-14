@@ -13,6 +13,7 @@
   +  Encode Solidity Bootcamp Graduate
   
  ✨ Specialties ✨
+  - Data Engineering
   - Blockchain Analytics
   - Machine Learning
   - MLOps + DevOps
