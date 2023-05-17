@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes
 <code><img height="60" src="https://dataschool.com/assets/images/sql-optimization/start_modeling_data/data2.png" title="dbt"></code>
 <code><img height="60" src="https://opensenselabs.com/sites/default/files/inline-images/terraform.png" title="Terraform"></code>
 <code><img height="60" src="https://filecoin.io/uploads/lot-logo-symbol-color.png" title="FEVM"></code>
-
+<code><img height="60" src="https://davidwalsh.name/demo/graphql-intro/graphql.png" title="GraphQL"></code>
 
  ## Places to Find Me on the Interwebs
  + [POAP NFT](https://app.poap.xyz/scan/techieteee.eth)
