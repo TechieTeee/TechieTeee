@@ -24,8 +24,7 @@
   - Data Visualization
   - Data Dashboards
   
-✨ I’m looking to collaborate on projects that help to democratize web 3 and data products for the masses
-💼 Open to New Work Opportunities
+✨ I’m looking to collaborate on projects that help to democratize web 3 and data products for the masses ✨
 
 <!---
 TechieTeee/TechieTeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
