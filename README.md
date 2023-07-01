@@ -1,7 +1,6 @@
 # Hey, Good People! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />🤓
 
-- 🤓 I’m TechieTeee
-- 👀 I’m a data engineer + blockchain developer
+- 🤓 I’m a data engineer + blockchain developer
 - 🌱 I’m currently building innovative and decentralized data pipelines by combining the worlds of web 3 and data engineering
 - 👩🏾‍💻 Hooked on Hackathons:
   - 🏆 **Multiple Web 3 Hackathons & Tech Contests Prize Winner [Most Recent]:** Eth NYC, Consensus Encode ATX, Activate Miami, Eth Libson, Woman Hack Lisbon, Chainlink Encode Virtual Hackathon, and Miami Buildathon
