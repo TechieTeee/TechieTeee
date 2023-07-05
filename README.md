@@ -6,6 +6,7 @@
   - 🏆 **Multiple Web 3 Hackathons & Tech Contests Prize Winner [Most Recent]:** Eth NYC, Consensus Encode ATX, Activate Miami, Eth Libson, Woman Hack Lisbon, Chainlink Encode Virtual Hackathon, and Miami Buildathon
   + Winner in Numerous Web 2 Hackathons and Various Tech Contests
   + Developer DAO member
+  + Covalent HQ Data Alchemists Cohort 2 
   + Build Pretty Solana Camp Alum, Buildspace Women Eth Builder Alum, Buildspace Nights and Weekends Season 1 Alum
   + N&W S3 Builder Gaudmire House Alum
   + Covalent HQ Data Alchemist Cohort 1 Alum
