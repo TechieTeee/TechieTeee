@@ -8,7 +8,7 @@
   + Developer DAO member
   + Covalent HQ Data Alchemists Cohort 2 
   + Build Pretty Solana Camp Alum, Buildspace Women Eth Builder Alum, Buildspace Nights and Weekends Season 1 Alum
-  + N&W S3 Builder Gaudmire House Alum
+  + Buildspace Nights and Weekends Season 3 Alum
   + Covalent HQ Data Alchemist Cohort 1 Alum
   +  Encode Solidity Bootcamp Graduate
   
