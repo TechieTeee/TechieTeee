@@ -22,6 +22,7 @@
   - Backend Development
   - Data Visualization
   - Data Dashboards
+  - API Development
   
 ✨ I’m looking to collaborate on projects that help to democratize web 3 and data products for the masses ✨
 
