@@ -18,6 +18,7 @@
   - MLOps + DevOps
   - Smart Contract Development
   - ETL Optimization
+  - Data Modeling
   - Database Management
   - Backend Development
   - Data Visualization
