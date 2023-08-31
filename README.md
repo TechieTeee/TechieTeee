@@ -20,10 +20,11 @@
   - ETL Optimization
   - Data Modeling
   - Database Management
+  - Cloud Platform Engineering (GCP, Azure and AWS)
   - Backend Development
   - Data Visualization
   - Data Dashboards
-  - API Development
+  - API Development and Monitoring
   
 ✨ I’m looking to collaborate on projects that help to democratize web 3 and data products for the masses ✨
 
