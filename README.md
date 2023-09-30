@@ -63,7 +63,8 @@ You can click the Preview link to take a look at your changes
 <code><img height="60" src="https://filecoin.io/uploads/lot-logo-symbol-color.png" title="FEVM"></code>
 <code><img height="60" src="https://davidwalsh.name/demo/graphql-intro/graphql.png" title="GraphQL"></code>
 
-![Web 3 Hacker](https://img.shields.io/badge/Web%203%20Hacker-%F0%9F%94%92%20Achievement%20Unlocked-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=TechieTeee&color=brightgreen)
+
 
  ## Places to Find Me on the Interwebs
  + [POAP NFT](https://app.poap.xyz/scan/techieteee.eth)
