@@ -1,28 +1,9 @@
 # Hey, Good People! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />🤓
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Page Title</title>
-    <style>
-        p span {
-            font-weight: bold !important;
-            color: yellow !important;
-        }
-    </style>
-</head>
-<body>
-
-<p align="center"> 
-  <span>Visitor count</span><br>
-  <img src="https://profile-counter.glitch.me/techieteee/count.svg" />
+<p align="center" style="font-weight: bold; color: yellow;">
+ Visitor count<br>
+ <img src="https://profile-counter.glitch.me/techieteee/count.svg" />
 </p>
-
-</body>
-</html>
-
 
 - 🤓 Data engineer + blockchain developer
 - 🌱 I’m currently building innovative and decentralized data pipelines by combining the worlds of web 3 and data engineering
