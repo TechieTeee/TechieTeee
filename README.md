@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" title="Java"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" title="TypeScript"></code>
 <code><img height="60" src="https://vectorified.com/images/sql-icon-23.png" title="SQL"></code>
-<code><img height="60" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" title="Python"></code>
+<code><img height="60" src="https://totalbitcoin.org/wp-content/uploads/2019/03/Ethereum11.png" title="Python"></code>
 <code><img height="60" src="https://ethereum.org/static/c48a5f760c34dfadcf05a208dab137cc/d1ef9/eth-diamond-rainbow.png" title="Ethereum"></code>
 <code><img height="60" src="https://www.pngall.com/wp-content/uploads/2017/05/Copyright-Symbol-R-Free-Download-PNG.png" title="R"></code>
 <code><img height="60" src="https://cryptologos.cc/logos/solana-sol-logo.png" title="Solana"></code>
