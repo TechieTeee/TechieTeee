@@ -1,5 +1,4 @@
 # Hey, Good People! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />🤓
-![Profile Views](https://komarev.com/ghpvc/?username=TechieTeee&color=brightgreen)
 
 - 🤓 Data engineer + blockchain developer
 - 🌱 I’m currently building innovative and decentralized data pipelines by combining the worlds of web 3 and data engineering
@@ -69,6 +68,9 @@ You can click the Preview link to take a look at your changes
  + [POAP NFT](https://app.poap.xyz/scan/techieteee.eth)
  + [OpenSea](https://opensea.io/account?tab=collected)
  + [Mint Kudos](https://mintkudos.xyz/profile/0x93083415e91da89c8bc92be621993bcc85e8c200?tab=Received)
+
+![Profile Views](https://komarev.com/ghpvc/?username=TechieTeee&color=brightyellow)
+
 
 <br>
 Let's Build Some Cool Stuff and Change the World! Let's go!!! 🤓
