@@ -1,10 +1,9 @@
 # Hey, Good People! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />🤓
 
 <p align="center"> 
-  <span style="font-weight: bold; color: yellow;">Visitor count</span><br>
+  <span style="font-weight: bold !important; color: yellow !important;">Visitor count</span><br>
   <img src="https://profile-counter.glitch.me/techieteee/count.svg" />
 </p>
-
 
 - 🤓 Data engineer + blockchain developer
 - 🌱 I’m currently building innovative and decentralized data pipelines by combining the worlds of web 3 and data engineering
