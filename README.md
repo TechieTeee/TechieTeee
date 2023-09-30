@@ -1,4 +1,5 @@
 # Hey, Good People! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />🤓
+![Profile Views](https://komarev.com/ghpvc/?username=TechieTeee&color=brightgreen)
 
 - 🤓 Data engineer + blockchain developer
 - 🌱 I’m currently building innovative and decentralized data pipelines by combining the worlds of web 3 and data engineering
@@ -62,8 +63,6 @@ You can click the Preview link to take a look at your changes
 <code><img height="60" src="https://opensenselabs.com/sites/default/files/inline-images/terraform.png" title="Terraform"></code>
 <code><img height="60" src="https://filecoin.io/uploads/lot-logo-symbol-color.png" title="FEVM"></code>
 <code><img height="60" src="https://davidwalsh.name/demo/graphql-intro/graphql.png" title="GraphQL"></code>
-
-![Profile Views](https://komarev.com/ghpvc/?username=TechieTeee&color=brightgreen)
 
 
  ## Places to Find Me on the Interwebs
