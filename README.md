@@ -69,7 +69,7 @@ You can click the Preview link to take a look at your changes
  + [OpenSea](https://opensea.io/account?tab=collected)
  + [Mint Kudos](https://mintkudos.xyz/profile/0x93083415e91da89c8bc92be621993bcc85e8c200?tab=Received)
 
-![Profile Views](https://komarev.com/ghpvc/?username=TechieTeee&color=brightyellow)
+![Profile Views](https://komarev.com/ghpvc/?username=TechieTeee&color=yellow)
 
 
 <br>
