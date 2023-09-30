@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes
 --->
 
 ## Top Tools and Languages
-<code><img height="60" src="https://www.redbytes.in/wp-content/uploads/2018/05/rust-logo-png-transparent.png" title="Rust"></code>
+<code><img height="60" src="https://firebounty.com/image/483-rust-lang-the-rust-programming-language" title="Rust"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" title="Java"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" title="TypeScript"></code>
