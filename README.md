@@ -16,6 +16,7 @@
   - Machine Learning
   - MLOps + DevOps
   - LLMs
+  - Data Warehousing
   - Smart Contract Development
   - ETL Optimization
   - Data Modeling
