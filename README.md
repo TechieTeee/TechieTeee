@@ -15,7 +15,7 @@
   - Blockchain Analytics
   - Machine Learning
   - MLOps + DevOps
-  - LLMs
+  - LLMs (Large Language Models)
   - Data Warehousing
   - Smart Contract Development
   - ETL Optimization
