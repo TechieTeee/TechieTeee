@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes
 <code><img height="60" src="https://www.pinclipart.com/picdir/big/523-5236504_apache-flink-clipart.png" title="Apache Flink"></code>
 <code><img height="60" src="https://dataschool.com/assets/images/sql-optimization/start_modeling_data/data2.png" title="dbt"></code>
 <code><img height="60" src="https://opensenselabs.com/sites/default/files/inline-images/terraform.png" title="Terraform"></code>
-<code><img height="60" src="https://filecoin.io/uploads/lot-logo-symbol-color.png" title="FEVM"></code>
+<code><img height="60" src="https://filecoin.io/uploads/lot-logo-symbol-color.png" title="Filecoin and FEVM (Filecoin Virtual Machine)"></code>
 <code><img height="60" src="https://davidwalsh.name/demo/graphql-intro/graphql.png" title="GraphQL"></code>
 
 
@@ -70,8 +70,8 @@ You can click the Preview link to take a look at your changes
  + [OpenSea](https://opensea.io/account?tab=collected)
  + [Mint Kudos](https://mintkudos.xyz/profile/0x93083415e91da89c8bc92be621993bcc85e8c200?tab=Received)
 
-<p align="left" style="font-weight: bold; color: yellow ;">
- Visitor count<br>
+<p align="left" style="font-weight: bold; color: yellow;">
+ Visitor Count<br>
  <img src="https://profile-counter.glitch.me/techieteee/count.svg" />
 </p>
 
