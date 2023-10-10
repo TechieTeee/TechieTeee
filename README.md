@@ -70,7 +70,7 @@ You can click the Preview link to take a look at your changes
  + [OpenSea](https://opensea.io/account?tab=collected)
  + [Mint Kudos](https://mintkudos.xyz/profile/0x93083415e91da89c8bc92be621993bcc85e8c200?tab=Received)
 
-<p align="left" style="font-weight: bold; color: yellow;">
+<p align="left" style="font-weight: bold; color: yellow ;">
  Visitor count<br>
  <img src="https://profile-counter.glitch.me/techieteee/count.svg" />
 </p>
