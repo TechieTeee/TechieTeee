@@ -1,4 +1,32 @@
-# Hey, Good People! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />🤓
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* Add animation to the image */
+        @keyframes spin {
+            from {
+                transform: rotate(0deg);
+            }
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        /* Apply the animation to the image */
+        img {
+            animation: spin 2s linear infinite;
+        }
+    </style>
+    <title>Animated Giphy</title>
+</head>
+<body>
+    <p>Hey, Good People! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" class="animated" />🤓</p>
+</body>
+</html>
+
 
 - 🤓 Data engineer + blockchain developer
 - 🌱 I’m currently building innovative and decentralized data pipelines by combining the worlds of web 3 and data engineering
