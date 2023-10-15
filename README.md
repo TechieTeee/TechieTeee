@@ -67,10 +67,10 @@ You can click the Preview link to take a look at your changes
 
  ## Places to Find Me on the Interwebs
  + [POAP NFT](https://app.poap.xyz/scan/techieteee.eth)
- + [OpenSea](https://opensea.io/account?tab=collected)
+ + [OpenSea](https://opensea.io/account?tab=collected) 
  + [Mint Kudos](https://mintkudos.xyz/profile/0x93083415e91da89c8bc92be621993bcc85e8c200?tab=Received)
 
-<p align="left" style="font-weight: bold; color: yellow;">
+<p align="left" style="font-weight: bold; color: green;">
  Visitor Count<br>
  <img src="https://profile-counter.glitch.me/techieteee/count.svg" />
 </p>
