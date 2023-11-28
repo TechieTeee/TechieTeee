@@ -15,6 +15,7 @@
   - Blockchain Analytics
   - Machine Learning
   - MLOps + DevOps
+  - Software Architecture
   - IoT
   - LLMs (Large Language Models) + LLMOps
   - Data Warehousing
