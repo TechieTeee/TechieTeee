@@ -16,6 +16,7 @@
   - Machine Learning
   - MLOps + DevOps
   - Software Architecture
+  - QA
   - IoT
   - LLMs (Large Language Models) + LLMOps
   - Data Warehousing
