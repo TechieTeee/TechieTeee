@@ -12,6 +12,7 @@
   
  ✨ Specialties ✨
   - Data Engineering
+  - Data Security 
   - Blockchain Analytics
   - Machine Learning
   - MLOps + DevOps
