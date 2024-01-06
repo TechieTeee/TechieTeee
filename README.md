@@ -12,7 +12,8 @@
   
  ✨ Specialties ✨
   - Data Engineering
-  - Data Security 
+  - Data Security
+  - Smart Contract Development
   - Blockchain Analytics
   - Machine Learning
   - MLOps + DevOps
@@ -21,7 +22,7 @@
   - IoT
   - LLMs (Large Language Models) + LLMOps
   - Data Warehousing
-  - Smart Contract Development
+ 
   - ETL Optimization
   - Data Modeling
   - Database Management
