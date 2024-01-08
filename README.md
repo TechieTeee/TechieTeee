@@ -15,8 +15,8 @@
   - Data Security
   - Smart Contract Development
   - Blockchain Analytics
-  - Machine Learning
-  - MLOps + DevOps
+  - Machine Learning + MLOps
+  - DevOps
   - Software Architecture
   - QA Testing
   - IoT
