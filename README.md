@@ -5,10 +5,10 @@
 - 👩🏾‍💻 Hooked on Hackathons:
   - 🏆 **Multiple Web 3 Hackathons, Web 2 Hackathons & Tech Contests Prize Winner:** Eth NYC, Consensus Encode ATX, Activate Miami, Eth Libson, Woman Hack Lisbon, Chainlink Encode Virtual Hackathon, Miami Buildathon and More
   + Winner in Numerous Web 2 Hackathons and Other Various Tech Contests
-  + Developer DAO member
+  + Developer DAO Member
   + Build Pretty Solana Camp Alum, Buildspace Women Eth Builder Alum, and Buildspace Nights and Weekends Season 1 & 3 Alum
   + Covalent HQ Data Alchemists Cohort 1 and Cohort 2 Alum
-  +  Encode Solidity Bootcamp Graduate
+  + Encode Solidity Bootcamp Graduate
   
  ✨ Specialties ✨
   - Data Engineering
