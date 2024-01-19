@@ -3,7 +3,7 @@
 - 🤓 Data Engineer + Blockchain Developer
 - 🌱 I’m currently building innovative and decentralized data pipelines by combining the worlds of web 3 and data engineering
 - 👩🏾‍💻 Hooked on Hackathons:
-  - 🏆 **Multiple Web 3 Hackathons, Web 2 Hackathons & Tech Contests Prize Winner:** Eth NYC, Consensus Encode ATX, Activate Miami, Eth Libson, Woman Hack Lisbon, Chainlink Encode Virtual Hackathon, Miami Buildathon and More
+  - 🏆 **Multiple Web 3 Hackathons, Web 2 Hackathons & Tech Contests Prize Winner:** Eth NYC, Consensus Encode ATX, Activate Miami, Eth Libson, Woman Hack Lisbon, Chainlink Encode Virtual Hackathon, Near Hack, Miami Buildathon and More
   + Winner in Numerous Web 2 Hackathons and Other Various Tech Contests
   + Developer DAO Member
   + Build Pretty Solana Camp Alum, Buildspace Women Eth Builder Alum, and Buildspace Nights and Weekends Season 1 & 3 Alum
