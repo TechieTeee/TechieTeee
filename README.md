@@ -1,7 +1,7 @@
 # Hey, Good People! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />🤓
 
 - 🤓 Data Engineer + Blockchain Developer
-- 🌱 I’m currently building innovative and decentralized data pipelines by combining the worlds of web 3 and data engineering
+- 🌱 I’m currently building innovative and decentralized data pipelines by combining the worlds of web 3, data engineering and machine learning
 - 👩🏾‍💻 Hooked on Hackathons:
   - 🏆 **Multiple Web 3 Hackathons, Web 2 Hackathons & Tech Contests Prize Winner:** Eth NYC, Consensus Encode ATX, Activate Miami, Eth Libson, Woman Hack Lisbon, Chainlink Encode Virtual Hackathon, Near Hack, Miami Buildathon and More
   + Winner in Numerous Web 2 Hackathons and Other Various Tech Contests
