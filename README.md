@@ -22,7 +22,7 @@
   - IoT
   - LLMs (Large Language Models) + LLMOps
   - Data Warehousing
- 
+  - Software Architecture
   - ETL Optimization
   - Data Modeling
   - Database Management
