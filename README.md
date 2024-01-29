@@ -9,6 +9,7 @@
   + Build Pretty Solana Camp Alum, Buildspace Women Eth Builder Alum, and Buildspace Nights and Weekends Season 1 & 3 Alum
   + Covalent HQ Data Alchemists Cohort 1 and Cohort 2 Alum
   + Encode Solidity Bootcamp Graduate
+  + Solana Superteam Member
   
  ✨ Specialties ✨
   - Data Engineering
