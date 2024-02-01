@@ -19,7 +19,6 @@
   - Blockchain Analytics
   - Machine Learning + MLOps
   - DevOps
-  - Software Architecture
   - QA Testing
   - IoT
   - LLMs (Large Language Models) + LLMOps
