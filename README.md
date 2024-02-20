@@ -21,6 +21,7 @@
   - Federated ML + Edge Computing
   - DevOps
   - QA Testing
+  - Technical Writing
   - IoT
   - LLMs (Large Language Models) + LLMOps
   - Data Warehousing
