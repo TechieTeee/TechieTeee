@@ -18,7 +18,8 @@
   - Smart Contract Development
   - Blockchain Analytics
   - Machine Learning + MLOps
-  - Federated ML + Edge Computing
+  - Federated ML
+  - Edge Computing
   - DevOps
   - QA Testing
   - Technical Writing
