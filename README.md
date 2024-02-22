@@ -7,7 +7,7 @@
   + Winner in Numerous Web 2 Hackathons and Other Various Tech Contests
   + Active, Open-Source Contributor
   + Developer DAO Member
-  + Build Pretty Solana Camp Alum, Buildspace Women Eth Builder Alum, and Buildspace Nights and Weekends Season 1 & 3 Alum
+  + Build Pretty Solana Camp Alum, Buildspace Women ETH Builder Alum, and Buildspace Nights and Weekends Season 1 & 3 Alum
   + Covalent HQ Data Alchemists Cohort 1 and Cohort 2 Alum
   + Encode Solidity Bootcamp Graduate
 
