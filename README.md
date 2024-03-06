@@ -14,7 +14,7 @@
   
  ✨ Specialties ✨
   - Data Engineering
-  - Data Security
+  - Data Security + Cyber Sec
   - Smart Contract Development
   - Blockchain Analytics
   - Machine Learning + MLOps
