@@ -15,6 +15,7 @@
  ✨ Specialties ✨
   - Data Engineering
   - Data Security
+  - Data Modeling
   - Smart Contract Development
   - Blockchain Analytics
   - Machine Learning + MLOps
@@ -28,7 +29,6 @@
   - Data Warehousing
   - Software Architecture
   - ETL Optimization
-  - Data Modeling
   - Database Management
   - Cloud Platform Engineering (GCP, Azure and AWS)
   - Backend Development and Optimization
