@@ -21,10 +21,10 @@
   - Machine Learning + MLOps
   - Federated ML
   - Edge Computing
+  -   - IoT
   - DevOps
   - QA Testing
   - Technical Writing
-  - IoT
   - LLMs (Large Language Models) + LLMOps
   - Data Warehousing
   - Software Architecture
