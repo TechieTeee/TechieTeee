@@ -21,7 +21,7 @@
   - Machine Learning + MLOps
   - Federated ML
   - Edge Computing
-  -   - IoT
+  - IoT
   - DevOps
   - QA Testing
   - Technical Writing
@@ -32,7 +32,7 @@
   - Database Management
   - Cloud Platform Engineering (GCP, Azure and AWS)
   - Backend Development
-  - Optimization
+  - Backend Optimization
   - Data Visualization
   - Data Dashboards
   - API Development and Monitoring
