@@ -31,7 +31,8 @@
   - ETL Optimization
   - Database Management
   - Cloud Platform Engineering (GCP, Azure and AWS)
-  - Backend Development and Optimization
+  - Backend Development
+  - Optimization
   - Data Visualization
   - Data Dashboards
   - API Development and Monitoring
