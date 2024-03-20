@@ -21,7 +21,7 @@
   - Machine Learning + MLOps
   - Federated ML
   - Edge Computing
-  - IoT
+  - IoT (Internet of Things)
   - DevOps
   - QA Testing
   - Technical Writing + Tech Talk
