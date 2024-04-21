@@ -24,7 +24,7 @@
   - IoT (Internet of Things)
   - DevOps
   - QA Testing
-  - Technical Writing + Tech Talk
+  - Technical Writing + Technical Presentations
   - LLMs (Large Language Models) + LLMOps
   - Data Warehousing
   - Software Architecture
