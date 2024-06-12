@@ -37,7 +37,7 @@
   - Data Dashboards
   - API Development and Performance Monitoring
   
-✨ I’m looking to collaborate on projects that help to democratize web 3 and data products for the masses ✨
+✨ I’m looking to collaborate on projects that help to democratize web 3, data products for the masses ✨
 
 <!---
 TechieTeee/TechieTeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
