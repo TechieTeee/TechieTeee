@@ -16,7 +16,7 @@
   - Data Engineering
   - Data Security
   - Data Modeling
-  - Software Architecture
+  - Software Architecture Design
   - Smart Contract Development
   - Blockchain Analytics
   - Machine Learning + MLOps
