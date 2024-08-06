@@ -20,7 +20,7 @@
   - Smart Contract Development
   - Blockchain Analytics
   - Machine Learning + MLOps
-  - Cryptography
+  - Cryptography and proofs
   - Federated Machine Learning
   - Edge Computing
   - IoT (Internet of Things)
