@@ -30,7 +30,7 @@
   - LLMs (Large Language Models) + LLMOps
   - Data Warehousing
   - Software Architecture
-  - ETL Optimization
+  - Data Pipeline Development & Optimization
   - Database Management
   - Cloud Platform Engineering (GCP, Azure and AWS)
   - Backend Development
