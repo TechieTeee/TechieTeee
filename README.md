@@ -21,6 +21,7 @@
   - Blockchain Analytics
   - Machine Learning + MLOps
   - Cryptography
+  - Distributed Computing
   - FML (Federated Machine Learning)
   - Edge Computing
   - IoT (Internet of Things)
