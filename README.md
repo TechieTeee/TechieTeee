@@ -26,7 +26,7 @@
   - Edge Computing
   - IoT (Internet of Things)
   - DevOps
-  - QA Testing
+  - QA Testing Design and Implementation 
   - Technical Writing + Technical Presentations/Talks
   - LLMs (Large Language Models) + LLMOps
   - Data Warehousing
