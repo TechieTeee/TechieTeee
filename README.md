@@ -39,7 +39,8 @@
   - Backend Optimization
   - Data Visualization
   - Data Dashboards
-  - API Development and Performance Monitoring
+  - API Development
+  - Performance Monitoring
   
 ✨ I’m looking to collaborate on projects that help to democratize web 3, data products for the masses ✨
 
