@@ -3,7 +3,7 @@
 - 🤓 Data Engineer + Blockchain Developer
 - 🌱 I’m currently building innovative and decentralized data pipelines by combining the worlds of web 3, backend devlopment, data engineering and machine learning (especially federated ML)
 - 👩🏾‍💻 Hooked on Hackathons:
-  - 🏆 **Multiple Web 3 Hackathons, Web 2 Hackathons & Tech Contests Prize Winner:** ETH NYC, Consensus Encode ATX, Activate Miami, ETH Libson, Woman Hack Lisbon, Chainlink Encode Virtual Hackathon, Near Hack, Miami Buildathon, Scroll Developer Dao Writeathon and More 
+  - 🏆 **Multiple Web 3 Hackathons, Web 2 Hackathons & Tech Contests Prize Winner:** ETH NYC, Consensus Encode ATX, Activate Miami, ETH Libson, Woman Hack Lisbon, Chainlink Encode Virtual       Hackathon, Near Hack, Miami Buildathon, Scroll Developer Dao Writeathon and More 
   + Winner in Numerous Web 2 Hackathons & Tech Contests
   + Active, Open-Source Contributor
   + Developer DAO Member
