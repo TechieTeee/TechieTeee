@@ -40,6 +40,7 @@
   - Data Visualization
   - Data Dashboards
   - API Development
+  - Agile Methodology
   - Performance Testing & Monitoring
   
 ✨ I’m looking to collaborate on projects that help to democratize web 3, data tools for the masses ✨
