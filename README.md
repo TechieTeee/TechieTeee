@@ -34,7 +34,7 @@
   - Software Architecture
   - Data Pipeline Development & Optimization (Primarily ETL and ELT)
   - Database Management
-  - Cloud Platform Engineering and Resource Management(GCP, Azure and AWS)
+  - Cloud Platform Engineering and Resource Management (GCP, Azure and AWS)
   - Backend Development
   - Backend Optimization
   - Data Visualization
