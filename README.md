@@ -30,6 +30,7 @@
   - QA Testing Design and Implementation 
   - Technical Writing + Technical Presentations/Talks
   - LLMs (Large Language Models) + LLMOps
+  - Chatbots
   - Data Warehousing
   - Software Architecture
   - Data Pipeline Development & Optimization
