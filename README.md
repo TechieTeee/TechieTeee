@@ -19,7 +19,7 @@
   - Software Architecture Design
   - Smart Contract Development
   - Blockchain Analytics
-  - Machine Learning + MLOps
+  - Machine Learning + AI + MLOps
   - Cryptography
   - Distributed Computing
   - FML (Federated Machine Learning)
