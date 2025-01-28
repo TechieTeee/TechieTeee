@@ -20,6 +20,7 @@
   - Smart Contract Development
   - Blockchain Analytics
   - Machine Learning + AI + MLOps
+  - AI Agents
   - Cryptography
   - Distributed Computing
   - FML (Federated Machine Learning)
