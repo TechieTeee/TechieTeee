@@ -19,7 +19,7 @@
   - Software Architecture Design
   - Smart Contract Development
   - Blockchain Analytics
-  - Machine Learning + AI + MLOps
+  - Machine Learning + MLOps
   - AI Agents
   - Cryptography
   - Distributed Computing
