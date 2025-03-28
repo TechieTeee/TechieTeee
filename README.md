@@ -34,7 +34,7 @@
   - Customized Chatbots
   - Data Warehousing
   - Software Architecture
-  - Data Pipeline Development & Optimization
+  - Data Pipeline Development,Monitoring & Optimization
   - Database Management
   - Cloud Platform Engineering and Resource Management (GCP, Azure and AWS)
   - Backend Development
