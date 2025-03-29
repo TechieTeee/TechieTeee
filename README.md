@@ -41,6 +41,7 @@
   - Backend Optimization
   - Data Visualization
   - Data Dashboards
+  - AI Agents
   - API Development
   - Agile Methodology
   - Performance Testing & Monitoring
