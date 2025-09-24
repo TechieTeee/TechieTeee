@@ -29,7 +29,7 @@
   - DevOps
   - Microservices
   - API Design
-  - QA Testing Design and Implementation 
+  - QA Testing Design, Implementation and Monitoring
   - Technical Writing + Technical
   - Presentations/Talks
   - LLMs (Large Language Models) + LLMOps
@@ -45,7 +45,6 @@
   - Data Dashboards
   - API Development
   - Agile Methodology
-  - Performance Testing & Monitoring
   
 ✨ I’m looking to collaborate on projects that help to democratize web 3, data tools for the masses ✨
 
